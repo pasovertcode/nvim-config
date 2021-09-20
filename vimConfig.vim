@@ -1,0 +1,31 @@
+syntax on
+
+set noerrorbells
+set smartindent
+set nohlsearch
+set nowrap
+set noswapfile
+set nobackup
+set undodir=$HOME\.vim\undodir
+set undofile
+set number
+set mouse=a
+set numberwidth=1
+set clipboard=unnamed
+set incsearch
+highlight ColorColumn ctermbg=0 guibg=lightgrey
+set showcmd
+set ruler
+set cursorline
+set encoding=utf-8
+set showmatch
+set sw=2
+set relativenumber
+set laststatus=2
+set noshowmode
+set completeopt=menuone,noinsert,noselect
+set colorcolumn=80
+set signcolumn=yes
+set cmdheight=1
+set updatetime=49
+set shortmess+=c
